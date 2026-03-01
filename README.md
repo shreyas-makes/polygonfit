@@ -1,7 +1,6 @@
-# PolygonFit (Rhino Plugin)
+# Polygonfit 
 
 <img width="1536" height="1024" alt="ChatGPT Image Mar 1 2026 from Rhino Plugin Development" src="https://github.com/user-attachments/assets/cb23b7f8-5273-4077-afa3-7740e4f55ccd" />
-
 
 PolygonFit is a Rhino plugin that cleans closed polygon boundaries for city-planning workflows.
 
@@ -15,7 +14,7 @@ It helps reduce manual cleanup by handling:
 Primary command:
 - `CleanCityPolygons`
 
-## Quick Start (Non-Developers)
+## Quick Start for Windows
 
 If you only want to use the plugin in Rhino, this is the path to follow.
 
@@ -88,49 +87,6 @@ This is the typical end-to-end flow inside Rhino.
 - Sliver threshold: `15 cm^2` (`0.0015 m^2`)
 - Angle simplification: `2 deg`
 
-## Troubleshooting
-
-- Plugin does not appear after install:
-- Restart Rhino and check `PlugInManager` again.
-- Rhino rejects `PolygonFit.dll`:
-- Rename/copy to `PolygonFit.rhp` and install the `.rhp`.
-- Command not found:
-- Confirm plugin loaded in `PlugInManager`, then restart Rhino.
-- Unexpected cleanup result:
-- Review `_PolygonFit_Review` layer and run with `Cancel` first to inspect preview safely.
-
-## Developer Setup (Optional)
-
-Only needed if you want to build from source.
-
-Prerequisites:
-- Rhino 7 or Rhino 8
-- Visual Studio 2022 (Desktop development with .NET)
-- .NET Framework 4.8 Developer Pack
-- .NET SDK
-
-Build (PowerShell from repo root):
-
-```powershell
-dotnet restore .\src\PolygonFit\PolygonFit.csproj
-dotnet build .\src\PolygonFit\PolygonFit.csproj -c Release
-```
-
-Build output:
-- `src\PolygonFit\bin\Release\net48\PolygonFit.dll`
-- `src\PolygonFit\bin\Release\net48\PolygonFit.Core.dll`
-
-Package script:
-
-```bash
-./scripts/package-windows.sh
-```
-
-Tests:
-
-```bash
-dotnet test tests/PolygonFit.Core.Tests/PolygonFit.Core.Tests.csproj -c Release
-```
 
 ## Documentation
 
