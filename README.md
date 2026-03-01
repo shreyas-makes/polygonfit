@@ -1,5 +1,8 @@
 # PolygonFit (Rhino Plugin)
 
+<img width="1536" height="1024" alt="ChatGPT Image Mar 1 2026 from Rhino Plugin Development" src="https://github.com/user-attachments/assets/cb23b7f8-5273-4077-afa3-7740e4f55ccd" />
+
+
 PolygonFit is a Rhino plugin that cleans closed polygon boundaries for city-planning workflows.
 
 It helps reduce manual cleanup by handling:
