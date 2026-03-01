@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "3jGFjE5DFpI=",
+  "success": true,
+  "projectFilePath": "/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit/PolygonFit.csproj",
+  "expectedPackageFiles": [
+    "/tmp/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/tmp/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.3/microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512",
+    "/tmp/.nuget/packages/rhinocommon/7.35.23346.11001/rhinocommon.7.35.23346.11001.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "PolygonFit depends on RhinoCommon (>= 7.34.23267.13001) but RhinoCommon 7.34.23267.13001 was not found. RhinoCommon 7.35.23346.11001 was resolved instead.",
+      "projectPath": "/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit/PolygonFit.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit/PolygonFit.csproj",
+      "libraryId": "RhinoCommon",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    }
+  ]
+}

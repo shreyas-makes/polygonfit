@@ -1,0 +1,15 @@
+PolygonFit Rhino Plugin (Windows install)
+
+Files in this folder:
+- PolygonFit.dll (Rhino plugin)
+- PolygonFit.Core.dll (required dependency)
+
+Install:
+1) Keep both DLL files in the same folder.
+2) Open Rhino 7 or Rhino 8.
+3) Open PlugInManager.
+4) Click Install... and select PolygonFit.dll.
+5) Restart Rhino.
+6) Run command: CleanCityPolygons
+
+If Rhino refuses .dll, rename PolygonFit.dll to PolygonFit.rhp and install that.

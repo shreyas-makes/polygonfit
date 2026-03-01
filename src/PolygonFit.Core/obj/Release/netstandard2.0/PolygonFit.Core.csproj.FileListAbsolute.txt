@@ -1,0 +1,10 @@
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit.Core/bin/Release/netstandard2.0/PolygonFit.Core.deps.json
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit.Core/bin/Release/netstandard2.0/PolygonFit.Core.dll
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit.Core/bin/Release/netstandard2.0/PolygonFit.Core.pdb
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit.Core/obj/Release/netstandard2.0/PolygonFit.Core.csproj.AssemblyReference.cache
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit.Core/obj/Release/netstandard2.0/PolygonFit.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit.Core/obj/Release/netstandard2.0/PolygonFit.Core.AssemblyInfoInputs.cache
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit.Core/obj/Release/netstandard2.0/PolygonFit.Core.AssemblyInfo.cs
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit.Core/obj/Release/netstandard2.0/PolygonFit.Core.csproj.CoreCompileInputs.cache
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit.Core/obj/Release/netstandard2.0/PolygonFit.Core.dll
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit.Core/obj/Release/netstandard2.0/PolygonFit.Core.pdb

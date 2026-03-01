@@ -1,0 +1,13 @@
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit/obj/Release/net48/PolygonFit.csproj.AssemblyReference.cache
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit/obj/Release/net48/PolygonFit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit/obj/Release/net48/PolygonFit.csproj.CoreCompileInputs.cache
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit/bin/Release/net48/PolygonFit.dll
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit/bin/Release/net48/PolygonFit.pdb
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit/bin/Release/net48/Eto.dll
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit/bin/Release/net48/Rhino.UI.dll
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit/bin/Release/net48/RhinoCommon.dll
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit/obj/Release/net48/PolygonFit.csproj.Up2Date
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit/obj/Release/net48/PolygonFit.dll
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit/obj/Release/net48/PolygonFit.pdb
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit/bin/Release/net48/PolygonFit.Core.dll
+/Users/shreyas/Desktop/Projects/polygonfit/src/PolygonFit/bin/Release/net48/PolygonFit.Core.pdb
